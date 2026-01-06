@@ -15,14 +15,7 @@ with 🏃 Jest as the test runner,
 📈 Allure for test reporting,
 and 🎲 Faker for test data generation.
 
-## Table of Contents 📚
 
--   [Project Structure](#project-structure)
--   [Installation](#installation)
--   [Lint and Format](#lint-and-format)
--   [Reporting](#reporting)
--   [CI/CD](#cicd)
--   [Contact](#contact)
 
 ## Project Structure 📁
 
@@ -119,8 +112,3 @@ The CI/CD pipeline, configured with GitHub Actions, triggers on every push to th
 
 GitHub workflow file: `.github/workflows/playwright.yml`
 
-Allure reports are generated and published via GitHub Pages.
-
-```
-
-```
