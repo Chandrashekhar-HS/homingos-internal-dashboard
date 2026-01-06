@@ -121,10 +121,6 @@ GitHub workflow file: `.github/workflows/playwright.yml`
 
 Allure reports are generated and published via GitHub Pages.
 
-### Contact 📧
-
-Questions? Reach out to us at 📧 [beemi.raja@gmail.com](mailto:beemi.raja@gmail.com)
-
 ```
 
 ```
