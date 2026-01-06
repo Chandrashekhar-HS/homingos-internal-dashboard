@@ -1,0 +1,10 @@
+# Keep in sync with .eslintignore + .gitignore
+**/node_modules
+**/allure-report
+**/allure-results
+**/test-results
+**/playwright-report
+**/coverage
+**/docs
+package.json
+package-lock.json
